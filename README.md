@@ -1,2 +1,5 @@
 # fizzbuzz
-FizzBuzz
+
+FizzBuzz practice #wu2019
+
+Auther : Naruebate Reewan
