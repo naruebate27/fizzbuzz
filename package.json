@@ -1,0 +1,22 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "FizzBuzz practice #wu2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naruebate27/fizzbuzz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naruebate27/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/naruebate27/fizzbuzz#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
